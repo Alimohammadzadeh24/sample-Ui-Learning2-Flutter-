@@ -1,4 +1,3 @@
-import 'package:amoozesh_modern/Colors/color.dart';
 import 'package:flutter/material.dart';
 
 import 'View/Screens/Homepage.dart';
